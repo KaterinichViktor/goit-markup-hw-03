@@ -388,7 +388,7 @@
 }
 .projects-list li{
   padding: 0 0 32px 0;
-  border: 1px solid var(--light);
+  border-bottom: 1px solid var(--light);
 }
 
 .projects-list:not(:first-child){
